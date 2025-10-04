@@ -91,7 +91,6 @@ This project helped me practice:
 * **Conditional rendering** (open/close hours, sold out items)
 * Structuring and styling with **CSS**
 
-=
 
 ## ✨ Future Improvements
 

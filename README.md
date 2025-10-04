@@ -2,15 +2,12 @@
 A simple React project that displays a stylish milkshake menu. The menu items are rendered dynamically from a JavaScript data array, with support for conditional UI (sold-out states, open/close hours). Built to practice React components, props, conditional rendering, and styling.
 
 
-Of course! Here’s a nice **README.md draft** you can use for your Milkshake Menu project:
-
----
 
 # 🥤 Shakes & Co. – Milkshake Menu
 
 A simple React project that displays a stylish milkshake menu with dynamic data. Built to practice **React components, props, conditional rendering, and styling**.
 
----
+
 
 ## 🚀 Features
 
@@ -26,13 +23,13 @@ A simple React project that displays a stylish milkshake menu with dynamic data.
 
 💲 Price Formatting – Prices include a dollar symbol and update with the data.
 
----
 
-## 📸 Preview
 
-*(Add a screenshot of your app here if possible)*
+## 📸 Preview  
 
----
+![Milkshake Menu Preview](public/milkshake-menu-page.png)
+
+
 
 ## 🛠️ Tech Stack
 
@@ -40,7 +37,7 @@ A simple React project that displays a stylish milkshake menu with dynamic data.
 * **JavaScript (ES6+)**
 * **CSS3** (flexbox, grid, custom styling)
 
----
+
 
 ## 📂 Project Structure
 
@@ -83,7 +80,7 @@ milkshake-menu/
    http://localhost:3000
    ```
 
----
+
 
 ## 📖 Learning Goals
 
@@ -94,7 +91,7 @@ This project helped me practice:
 * **Conditional rendering** (open/close hours, sold out items)
 * Structuring and styling with **CSS**
 
----
+=
 
 ## ✨ Future Improvements
 
@@ -102,12 +99,10 @@ This project helped me practice:
 * Fetch milkshake data from an API instead of hardcoding
 * Add animations/transitions for a smoother UI
 
----
+
 
 ## 👨‍💻 Author
 
 Built with ❤️ by [Raghavan R]
 
----
 
-Would you like me to make the README **fun & aesthetic with emojis and badges** (like `react`, `license`, `issues` badges at the top) or keep it **minimal and professional**?
